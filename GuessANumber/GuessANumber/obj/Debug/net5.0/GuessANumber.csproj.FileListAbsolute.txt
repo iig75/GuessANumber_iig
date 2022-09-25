@@ -1,0 +1,16 @@
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\GuessANumber.exe
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\GuessANumber.deps.json
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\GuessANumber.runtimeconfig.json
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\GuessANumber.runtimeconfig.dev.json
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\GuessANumber.dll
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\ref\GuessANumber.dll
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\bin\Debug\net5.0\GuessANumber.pdb
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.csproj.AssemblyReference.cache
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.AssemblyInfoInputs.cache
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.AssemblyInfo.cs
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.csproj.CoreCompileInputs.cache
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.dll
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\ref\GuessANumber.dll
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.pdb
+C:\Users\iig\source\repos\GuessANumber\GuessANumber\obj\Debug\net5.0\GuessANumber.genruntimeconfig.cache
